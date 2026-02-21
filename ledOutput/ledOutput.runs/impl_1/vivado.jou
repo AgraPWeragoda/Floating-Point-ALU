@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sun Dec 14 13:39:16 2025
+# Process ID         : 10184
+# Current directory  : C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ledOutput/ledOutput.runs/impl_1
+# Command line       : vivado.exe -log ledDisplay.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ledDisplay.tcl -notrace
+# Log file           : C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ledOutput/ledOutput.runs/impl_1/ledDisplay.vdi
+# Journal file       : C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ledOutput/ledOutput.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-087OT34
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i7-1255U
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 12
+# Host memory        : 8245 MB
+# Swap memory        : 13429 MB
+# Total Virtual      : 21674 MB
+# Available Virtual  : 4949 MB
+#-----------------------------------------------------------
+source ledDisplay.tcl -notrace

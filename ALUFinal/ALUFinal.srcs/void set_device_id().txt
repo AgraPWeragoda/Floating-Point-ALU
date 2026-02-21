@@ -1,0 +1,29 @@
+void set_device_id()
+{
+    Sector_Unprotection(FLASH_SECTOR_BASE);
+    Sector_Erase(FLASH_SECTOR_BASE);
+
+    // Write each variable to its respective flash address using appropriate write size
+    Data_Write_8bit(FLASH_ADDR_CHECK_MEMORY, 0xAA);
+    Data_Write_8bit(FLASH_ADDR_MY_ID, My_ID);
+    Data_Write_8bit(FLASH_ADDR_BAUDRATE, Baudrate);
+    Data_Write_8bit(FLASH_ADDR_DATA_RATE, Data_Rate);
+    Data_Write_16bit(FLASH_ADDR_DATA_TYPE, Data_Type);
+    Data_Write_16bit(FLASH_ADDR_HW_VERSION, Hardware_Version);
+    Data_Write_32bit(FLASH_ADDR_FW_VERSION_PREVIOUS, Previous_Firmware_Version);
+    Data_Write_32bit(FLASH_ADDR_FW_VERSION_CURRENT, Current_Firmware_Version);
+
+    Data_Write_Rot_Matrix();
+}
+
+
+
+
+      old_device_ID = My_ID;
+      My_ID = msg._.data_buffer[0];
+      set_device_id();
+
+      data_len = 03;
+      output._.device_id = My_ID;
+      output._.message_id = Message_ID;
+      output._.data_length = data_len;

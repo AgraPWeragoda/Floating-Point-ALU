@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file C:\Users\Agrajith\Desktop\Sem 5\Digital System Design\ALUFinal\uartTest\uartTest.runs\impl_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Permission denied

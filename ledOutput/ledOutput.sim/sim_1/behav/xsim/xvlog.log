@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ledOutput/ledOutput.srcs/sources_1/new/ledDisplay.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ledDisplay
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ledOutput/ledOutput.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.sim/sim_1/synth/func/xsim/core_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module clkdiv
+INFO: [VRFC 10-311] analyzing module core
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-311] analyzing module divider
+INFO: [VRFC 10-311] analyzing module ledDisplay
+INFO: [VRFC 10-311] analyzing module glbl

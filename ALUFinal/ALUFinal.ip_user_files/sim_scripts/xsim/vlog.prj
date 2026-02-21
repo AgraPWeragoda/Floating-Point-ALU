@@ -1,0 +1,13 @@
+sv xpm -i "D:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"D:/Xilinx/2025.1/Vivado/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv" \
+
+verilog xil_defaultlib -i "D:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../ALUFinal.srcs/sources_1/new/ALU.v" \
+"../../../ALUFinal.srcs/sources_1/new/decoder.v" \
+"../../../ALUFinal.srcs/sources_1/imports/new/ledDisplay.v" \
+"../../../ALUFinal.srcs/sources_1/new/core.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

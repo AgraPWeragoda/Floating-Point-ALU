@@ -1,0 +1,201 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new
+vALU
+Z1 !s110 1766895134
+!i10b 1
+!s100 =o]za4J1NcMe:4L3i8zk>0
+I9HD<]kD:=:AeG`Z0Ei1bH3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1766877826
+8C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/ALU.v
+FC:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/ALU.v
+L0 5
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1766895134.000000
+Z5 !s107 C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/validator.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/resetting.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/normalizer.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/exponentAlu.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/encoder.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/divState.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/decoder.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/core.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/clkDiv.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/ALU.v|
+Z6 !s90 -reportprogress|300|-work|work|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/ALU.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/clkDiv.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/core.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/decoder.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/divState.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/encoder.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/exponentAlu.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/normalizer.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/resetting.v|C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/validator.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@a@l@u
+vclkdiv
+R1
+!i10b 1
+!s100 ?8zF^8eK[]zoa2m1X1Iie3
+ILTgV7DloQBHDK?Io<7>[k0
+R2
+R0
+w1766894347
+8C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/clkDiv.v
+FC:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/clkDiv.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vdecoder
+R1
+!i10b 1
+!s100 ^J599QRIhlPO^TK::h>l30
+I1IjUL47L8?VLIb0>hk;2N1
+R2
+R0
+w1766251227
+8C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/decoder.v
+FC:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/decoder.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vdivider
+R1
+!i10b 1
+!s100 EhH2oY^EHPN;<geVb_=lZ2
+I1K1@SijdYJ]k1:Fi?9_C41
+R2
+R0
+w1765818675
+8C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/divState.v
+FC:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/divState.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vencoder
+R1
+!i10b 1
+!s100 3WbLJ84njRgiRa?63cLiB2
+IFoGIgIKKVlebZS19<nQPU1
+R2
+R0
+w1766879044
+8C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/encoder.v
+FC:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/encoder.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vexponentAlu
+R1
+!i10b 1
+!s100 nkXQzzO<dldF5Gd_MCAgG1
+IL9MAgAdFWQ4O`?7F2BGzN3
+R2
+R0
+w1766514212
+8C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/exponentAlu.v
+FC:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/exponentAlu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+nexponent@alu
+vnormalizer
+R1
+!i10b 1
+!s100 BObClOe3A1VN]9G8dH6R?3
+ILbkljm0aoECdSJQS972nk2
+R2
+R0
+w1766889855
+8C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/normalizer.v
+FC:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/normalizer.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vresetting
+R1
+!i10b 1
+!s100 04BECOL?oiI=ZElGE<X722
+ID]]Il0hnZgABafUfz@MFG3
+R2
+R0
+w1766513826
+8C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/resetting.v
+FC:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/resetting.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vvalidator
+R1
+!i10b 1
+!s100 N947ZDMG@IWYR<46knW?f3
+I@WXdO?RFdz`e]OzJQahj@1
+R2
+R0
+w1766428450
+8C:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/validator.v
+FC:/Users/Agrajith/Desktop/Sem 5/Digital System Design/ALUFinal/ALUFinal/ALUFinal.srcs/sources_1/new/validator.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
